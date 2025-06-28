@@ -68,3 +68,6 @@ edge-impulse-uploader --category split --label non-elephant human-wildlife-confl
 ```
 
 The `--category split` flag ensures the data is split automatically into training and test datasets after the upload.
+
+
+(email for dataset)
